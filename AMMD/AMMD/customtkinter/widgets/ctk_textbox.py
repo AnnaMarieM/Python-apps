@@ -123,6 +123,7 @@ class CTkTextbox(CTkBaseClass):
     def get(self, *args, **kwargs):
         return self.textbox.get(*args, **kwargs)
 
+
     def focus(self):
         return self.textbox.focus()
 
