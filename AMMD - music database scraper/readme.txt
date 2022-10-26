@@ -1,4 +1,4 @@
-složku AMMD překopírovat do počítače
+složku AMMD app překopírovat do počítače
 
 ve složce dist je exe soubor AMMD, což je naše aplikace
 
